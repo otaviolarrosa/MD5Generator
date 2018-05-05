@@ -1,0 +1,10 @@
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\bin\Debug\MD5Generator.exe.config
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\bin\Debug\MD5Generator.exe
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\bin\Debug\MD5Generator.pdb
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.csprojResolveAssemblyReference.cache
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.Form1.resources
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.Properties.Resources.resources
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.csproj.GenerateResource.cache
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.csproj.CoreCompileInputs.cache
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.exe
+c:\users\otaviolarrosa\source\repos\MD5Generator\MD5Generator\obj\Debug\MD5Generator.pdb
